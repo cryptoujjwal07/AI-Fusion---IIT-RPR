@@ -7,7 +7,7 @@ Built during a hackathon, EX2NEXT demonstrates how technology can support a circ
 
 Millions of usable products are discarded every year due to lack of accessible resale platforms.
 
-*Key issues:*
+*Key issues ->*
 
 Difficulty finding trusted buyers/sellers
 No centralized platform for local resale
@@ -41,23 +41,23 @@ Foundation for location-based resale ecosystem
 
 *Tech Stack->*
 
-Frontend -> 
+Frontend:
 
 React.js
 Next.js
 HTML
 CSS
 
-Backend ->
+Backend:
 
 Node.js
 Express.js
 
-Database->
+Database:
 
 MongoDB
 
-Authentication ->
+Authentication:
 
 JSON Web Tokens (JWT)
 
