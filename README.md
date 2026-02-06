@@ -1,25 +1,30 @@
-EX2NEXT — Resale Marketplace
+*EX2NEXT — Resale Marketplace*
 
 EX2NEXT is a full-stack web platform that enables users to buy and sell pre-owned products easily. The application focuses on sustainability, affordability, and accessibility by promoting reuse and reducing unnecessary consumption.
 Built during a hackathon, EX2NEXT demonstrates how technology can support a circular economy and make second-hand commerce simple and trustworthy.
 
-Problem Statement
+*Problem Statement ->* 
+
 Millions of usable products are discarded every year due to lack of accessible resale platforms.
 
-Key issues:
+*Key issues:*
+
 Difficulty finding trusted buyers/sellers
 No centralized platform for local resale
 High cost of new products for students and middle-income users
 Growing environmental waste
 
-Our Solution
+*Our Solution ->*
+
 EX2NEXT provides a digital marketplace where users can:
 List pre-owned items
 Discover affordable second-hand products
 Connect buyers and sellers directly
 Promote sustainable consumption habits
 The platform simplifies the resale process through a clean interface, smart search, and secure authentication.
-Key Features
+
+*Key Features* ->
+
 Secure user authentication using JWT
 
 Add, edit, and delete product listings
@@ -34,9 +39,10 @@ Beginner-friendly listing flow
 Designed keeping students and local communities in mind
 Foundation for location-based resale ecosystem
 
-Tech Stack->
+*Tech Stack->*
 
-Frontend
+Frontend -> 
+
 React.js
 Next.js
 HTML
@@ -60,7 +66,8 @@ User → Frontend (React/Next.js) → Backend API (Node/Express) → MongoDB
                         ↓
                  Authentication (JWT)
 
-Installation & Setup
+*Installation & Setup:*
+
 Prerequisites ->
 
 Node.js
