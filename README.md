@@ -161,19 +161,43 @@ Database design
 User-centric product thinking
 
 SecondSpin represents a scalable idea that can evolve into a real-world resale ecosystem.
-![Screenshot (25)](https://github.com/user-attachments/assets/3ca26f59-0760-4d8c-9a7b-a704af808845)
 
-![Screenshot (26)](https://github.com/user-attachments/assets/56d11dfd-b395-4895-9cc7-f7f896e4f2b3)
+![1ai](https://github.com/user-attachments/assets/2ddeef25-b256-49de-b754-09497e7d681a)
 
+![2ai](https://github.com/user-attachments/assets/da433c6e-4b98-478f-b42e-0b774ea936af)
 
-![Screenshot (28)](https://github.com/user-attachments/assets/425bc67a-9b45-4c33-8245-8b329c14dcae)
+![2ai](https://github.com/user-attachments/assets/df1382dd-0a6c-417b-ae69-880fbc3f8a0c)
 
-![Screenshot (27)](https://github.com/user-attachments/assets/77666340-64b3-4ca1-8a1b-6034590308eb)
+![4ai](https://github.com/user-attachments/assets/c90858e6-1852-4ed7-a591-2af61e2ed7b4)
 
+![5ai](https://github.com/user-attachments/assets/26e61b0d-a635-4d13-93e6-767d6d2d0f69)
 
-![Screenshot 2024-11-05 223349](https://github.com/user-attachments/assets/da258005-3795-4b37-89b2-0eadbd1edf04)
-![Screenshot 2024-11-05 223455](https://github.com/user-attachments/assets/54fa6667-8948-4fbf-a4a3-a03ea4a5a53f)
+![6ai](https://github.com/user-attachments/assets/81d15795-32ec-4b4a-8ef1-6f7d6ef1e843)
 
-![Screenshot 2024-11-05 223535](https://github.com/user-attachments/assets/a2bfec7f-cdde-4a5e-b5a8-55b582431134)
+![7ai](https://github.com/user-attachments/assets/ba793311-4151-40d7-b048-e5fc7a403228)
 
+![8ai](https://github.com/user-attachments/assets/cec8beda-9d8c-4da3-ad56-3a65cec105e5)
 
+![9ai](https://github.com/user-attachments/assets/2ab2e6fb-152d-4a2d-99f3-423fdf4aa40a)
+
+![10ai](https://github.com/user-attachments/assets/be836c1b-9185-47ce-89db-d227b9e6456d)
+
+![11ai](https://github.com/user-attachments/assets/adf94118-02ce-4ed2-838d-e421975f4bbe)
+
+![12ai](https://github.com/user-attachments/assets/e18b5356-f4ba-4350-ba0a-8c7f934059b7)
+
+![13ai](https://github.com/user-attachments/assets/1472d3f5-91e4-4d35-b53b-12d85a755a51)
+
+![14ai](https://github.com/user-attachments/assets/09c479c3-3928-4eea-bb5e-12485d0d846e)
+
+![15ai](https://github.com/user-attachments/assets/c26fb790-0497-4daf-85bc-155c311307d2)
+
+![16ai](https://github.com/user-attachments/assets/04606fcd-0ace-4812-ae14-98057ab73231)
+
+![17ai](https://github.com/user-attachments/assets/704de4db-065c-4481-b84c-90200a1a893a)
+
+![18ai](https://github.com/user-attachments/assets/efc0e189-bfef-4153-a080-78ee3e65f914)
+
+![19ai](https://github.com/user-attachments/assets/52b1e798-eda4-4c33-834c-91446f12d3f7)
+
+![20ai](https://github.com/user-attachments/assets/bde0afa4-1d40-4efa-b306-67309482155a)
