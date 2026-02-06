@@ -1,11 +1,3 @@
-in root dirc run->
-npm install
-
-
-npx update-browserslist-db@latest --update-db
-
-
-npm install --save-dev @babel/plugin-proposal-private-property-in-object
 
 
 
