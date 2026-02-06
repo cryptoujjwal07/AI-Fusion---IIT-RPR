@@ -1,3 +1,29 @@
+in root dirc run->
+npm install
+npx update-browserslist-db@latest --update-db
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+# For development (live client)
+npm start
+
+# OR to build and serve production build
+npm run build
+npx http-server build -p 8888
+
+
+
+open a sperate terminal ->
+
+cd server
+npm install
+
+# Start API server (uses nodemon)
+npm run start    # runs server.js
+# or start chat server
+npm run dev      # runs chatServer.js
+
+
+
 *SecondSpin — Resale Marketplace*
 
 SecondSpin is a full-stack web platform that enables users to buy and sell pre-owned products easily. The application focuses on sustainability, affordability, and accessibility by promoting reuse and reducing unnecessary consumption.
