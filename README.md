@@ -43,14 +43,14 @@ Foundation for location-based resale ecosystem
 
 Frontend:
 
-React.js
-Next.js
-HTML
+React.js, 
+Next.js, 
+HTML, 
 CSS
 
 Backend:
 
-Node.js
+Node.js, 
 Express.js
 
 Database:
