@@ -1,13 +1,21 @@
 in root dirc run->
 npm install
+
+
 npx update-browserslist-db@latest --update-db
+
+
 npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+
 
 # For development (live client)
 npm start
 
 # OR to build and serve production build
 npm run build
+
+
 npx http-server build -p 8888
 
 
