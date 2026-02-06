@@ -1,6 +1,6 @@
-*EX2NEXT — Resale Marketplace*
+*SecondSpin — Resale Marketplace*
 
-EX2NEXT is a full-stack web platform that enables users to buy and sell pre-owned products easily. The application focuses on sustainability, affordability, and accessibility by promoting reuse and reducing unnecessary consumption.
+SecondSpin is a full-stack web platform that enables users to buy and sell pre-owned products easily. The application focuses on sustainability, affordability, and accessibility by promoting reuse and reducing unnecessary consumption.
 Built during a hackathon, EX2NEXT demonstrates how technology can support a circular economy and make second-hand commerce simple and trustworthy.
 
 *Problem Statement ->* 
@@ -16,7 +16,7 @@ Growing environmental waste
 
 *Our Solution ->*
 
-EX2NEXT provides a digital marketplace where users can:
+SecondSpin provides a digital marketplace where users can:
 List pre-owned items
 Discover affordable second-hand products
 Connect buyers and sellers directly
@@ -134,7 +134,7 @@ Database design
 
 User-centric product thinking
 
-EX2NEXT represents a scalable idea that can evolve into a real-world resale ecosystem.
+SecondSpin represents a scalable idea that can evolve into a real-world resale ecosystem.
 ![Screenshot (25)](https://github.com/user-attachments/assets/3ca26f59-0760-4d8c-9a7b-a704af808845)
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/56d11dfd-b395-4895-9cc7-f7f896e4f2b3)
