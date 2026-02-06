@@ -1,166 +1,206 @@
+SecondSpin — AI-Powered Resale Marketplace
+Demo video - https://drive.google.com/file/d/1K_bGtPsb7oZG5plucRXC8_vLfPf7h25R/view?usp=drivesdk
 
+SecondSpin is a full-stack AI-driven resale platform that enables users to buy and sell pre-owned products seamlessly. The platform promotes sustainable consumption, affordability, and accessibility by creating a trusted ecosystem for second-hand commerce.
 
+It demonstrates how modern web technologies and Artificial Intelligence can support a circular economy by reducing waste and extending product life cycles.
 
-# For development (live client)
-npm start
+Problem Statement
 
-# OR to build and serve production build
-npm run build
+Millions of usable products are discarded every year due to the lack of accessible and trustworthy resale platforms.
 
+Key Challenges
 
-npx http-server build -p 8888
+Difficulty finding trusted buyers and sellers
 
+No centralized platform for local resale communities
 
-
-open a sperate terminal ->
-
-cd server
-npm install
-
-# Start API server (uses nodemon)
-npm run start    # runs server.js
-# or start chat server
-npm run dev      # runs chatServer.js
-
-
-
-*SecondSpin — Resale Marketplace*
-
-SecondSpin is a full-stack web platform that enables users to buy and sell pre-owned products easily. The application focuses on sustainability, affordability, and accessibility by promoting reuse and reducing unnecessary consumption.
-Built during a hackathon, SecondSpin demonstrates how technology can support a circular economy and make second-hand commerce simple and trustworthy.
-
-*Problem Statement ->* 
-
-Millions of usable products are discarded every year due to lack of accessible resale platforms.
-
-*Key issues ->*
-
-Difficulty finding trusted buyers/sellers
-No centralized platform for local resale
 High cost of new products for students and middle-income users
-Growing environmental waste
 
-*Our Solution ->*
+Increasing environmental waste due to underutilized goods
 
-SecondSpin provides a digital marketplace where users can:
-List pre-owned items
-Discover affordable second-hand products
+Our Solution
+
+SecondSpin is an AI-powered digital resale marketplace designed to simplify and optimize the buying and selling of pre-owned products.
+
+The platform leverages Artificial Intelligence to enhance decision-making for both buyers and sellers while ensuring a smooth, secure, and intuitive user experience.
+
+SecondSpin enables users to:
+
+List pre-owned products easily
+
+Discover affordable second-hand items through AI-powered search
+
 Connect buyers and sellers directly
-Promote sustainable consumption habits
-The platform simplifies the resale process through a clean interface, smart search, and secure authentication.
 
-*Key Features* ->
+Save products to a personalized wishlist
 
-Secure user authentication using JWT
+Communicate using real-time chat via WebSockets
+
+View product locations through map integration
+
+AI-Driven Capabilities
+
+1. AI-Based Smart Search & Recommendations
+
+AI analyzes:
+
+user queries
+
+product attributes
+
+pricing patterns
+
+listing relevance
+
+Dynamically suggests:
+
+lowest-priced products
+
+highest-value listings
+
+personalized product recommendations based on user behavior and intent
+
+2. AI-Based Price Prediction for Sellers
+
+When a seller uploads a product image:
+
+AI evaluates image features and listing metadata
+
+Predicts an optimal selling price range
+
+Recommends a competitive listing price
+
+Helps sellers:
+
+avoid underpricing or overpricing
+
+improve visibility
+
+increase chances of faster sales
+
+This AI-assisted workflow ensures smarter product discovery, optimized pricing, and a more efficient resale ecosystem.
+
+Key Features
+
+Secure JWT-based authentication
 
 Add, edit, and delete product listings
-Browse resale items easily
-Search and filter products
-Wishlist/Favorites system
-Fully responsive design for mobile and desktop
+
+AI-powered product search and filtering
+
+AI-based price prediction system
+
+Wishlist / Favorites functionality
+
+Real-time buyer–seller chat using WebSockets
+
+Map-based product location display
+
+Fully responsive UI for mobile and desktop
+
 Innovation & Uniqueness
-Focus on sustainability-driven commerce
+
+Sustainability-focused commerce platform
+
+AI-assisted decision support for both buyers and sellers
+
 Lightweight and scalable MERN architecture
-Beginner-friendly listing flow
-Designed keeping students and local communities in mind
-Foundation for location-based resale ecosystem
 
-*Tech Stack->*
+Beginner-friendly product listing flow
 
-Frontend:
+Designed for students and local communities
 
-React.js, 
-Next.js, 
-HTML, 
+Foundation for a location-based resale ecosystem
+
+Tech Stack
+Frontend
+
+React.js
+
+Next.js
+
+HTML
+
 CSS
 
-Backend:
+Backend
 
-Node.js, 
+Node.js
+
 Express.js
 
-Database:
+Database
 
 MongoDB
 
-Authentication:
+Authentication
 
 JSON Web Tokens (JWT)
 
+Real-Time Communication
+
+WebSockets
+
+AI Modules
+
+Search recommendation engine
+
+Image-assisted price prediction model
+
 System Architecture
-User → Frontend (React/Next.js) → Backend API (Node/Express) → MongoDB
-                        ↓
-                 Authentication (JWT)
 
-*Installation & Setup:*
+User → Frontend (React / Next.js) → Backend API (Node.js / Express) → MongoDB
+                              ↓
+            Authentication (JWT) + AI Services + WebSockets
 
-Prerequisites ->
+Demo Flow
 
-Node.js
-npm
-MongoDB
+User registers / logs in
 
-Steps
-git clone https://github.com/dilip12git/EX2NEXT-resale-marketplace.git
-cd SecondSpin-resale-marketplace
-npm install
+Seller lists a resale product
 
+AI suggests optimal price during listing
 
-Create a .env file:
+Buyers browse/search products
 
+AI ranks and recommends listings
+
+Users save products to wishlist
+
+Buyer and seller communicate via chat
+
+Product location visible on map
+
+Installation & Setup
+Create .env file
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
 PORT=3000
 
+Mac OS Commands
+Terminal 1 — Backend API
+npm install
+cd server
+npm install
+npm start
 
-Run the project:
-
+Terminal 2 — Chat Server
+cd server
 npm run dev
 
+Terminal 3 — Frontend
+cd ..
+npx http-server build -p 8888
 
-Open:
-http://localhost:3000
+Impact
 
-Demo Flow ->
+Encourages reuse and reduces environmental waste
 
-User registers/login
-User lists a resale product
-Buyers browse/search items
-Users save favorites
-Product interaction between buyer & seller
+Makes second-hand shopping accessible and affordable
 
-Impact ->
-
-Encourages reuse and reduces waste
-Makes second-hand shopping accessible
 Helps students earn from unused items
+
 Supports sustainable consumption habits
-
-Future Scope ->
-
-Integrated payment gateway
-Real-time buyer–seller chat
-Location-based recommendations
-Seller ratings & reviews
-AI-based price suggestions
-
-Team ->
-
-Developed as a hackathon project by the EX2NEXT team.
-
-Submission Note ->
-
-This project was developed as part of a hackathon to demonstrate practical implementation of:
-
-Full-stack development
-
-Authentication & APIs
-
-Database design
-
-User-centric product thinking
-
-SecondSpin represents a scalable idea that can evolve into a real-world resale ecosystem.
 
 ![1ai](https://github.com/user-attachments/assets/2ddeef25-b256-49de-b754-09497e7d681a)
 
