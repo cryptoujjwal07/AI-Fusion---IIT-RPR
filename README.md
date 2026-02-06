@@ -27,7 +27,7 @@ npm run dev      # runs chatServer.js
 *SecondSpin — Resale Marketplace*
 
 SecondSpin is a full-stack web platform that enables users to buy and sell pre-owned products easily. The application focuses on sustainability, affordability, and accessibility by promoting reuse and reducing unnecessary consumption.
-Built during a hackathon, EX2NEXT demonstrates how technology can support a circular economy and make second-hand commerce simple and trustworthy.
+Built during a hackathon, SecondSpin demonstrates how technology can support a circular economy and make second-hand commerce simple and trustworthy.
 
 *Problem Statement ->* 
 
@@ -102,7 +102,7 @@ MongoDB
 
 Steps
 git clone https://github.com/dilip12git/EX2NEXT-resale-marketplace.git
-cd EX2NEXT-resale-marketplace
+cd SecondSpin-resale-marketplace
 npm install
 
 
